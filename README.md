@@ -1,1 +1,17 @@
 # LINKED-LIST-IMPLEMENTATION-
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SHWETA KUMARI 
+
+INTERN ID: CT04DH1310
+
+DOMAIN: C Programming 
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+OUTPUT:
+
+[CODTECH_Task_2_Linked_List.pdf](https://github.com/user-attachments/files/21411825/CODTECH_Task_2_Linked_List.pdf)
